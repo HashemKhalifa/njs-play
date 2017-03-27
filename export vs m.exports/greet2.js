@@ -1,5 +1,6 @@
 /*
-    
+    the output witll be greet as a function
+    because we Mutate the object 
 */
 
 exports.greet = function(){
